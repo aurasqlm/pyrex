@@ -1,0 +1,179 @@
+Category,Example User Prompt
+Greeting,Hello
+Greeting,Hi there
+Greeting,Hey Pyrex
+Greeting,Hello Pyrex how are you
+
+Status,How are you?
+Status,How are you doing today?
+Status,Are you fine?
+Status,You okay?
+
+Identity,What is your name?
+Identity,Who are you?
+Identity,Are you an AI?
+Identity,Tell me your name
+
+Confusion,What?
+Confusion,What is this?
+Confusion,What do you mean?
+
+User Identity,Do you know my name?
+User Identity,Who am I?
+User Identity,Can you tell me my name?
+User Identity,Do you remember my name?
+
+Help,I need help
+Help,Can you help me?
+Help,Please assist me
+Help,I need some support
+
+Thanks,Thank you
+Thanks,Thanks a lot
+Thanks,Thanks for helping me
+Thanks,Thank you very much
+
+Exit,Goodbye
+Exit,Bye Pyrex
+Exit,I want to exit now
+Exit,See you later
+
+Music,Can you sing a song?
+Music,Play some music
+Music,Sing something
+Music,Play a song for me
+
+Joke,Tell me a joke
+Joke,Make me laugh
+Joke,Do you know any funny jokes?
+
+Sad,I am feeling sad
+Sad,I feel depressed
+Sad,I am unhappy today
+Sad,I am feeling low
+
+Happy,I am very happy today
+Happy,I feel excited
+Happy,I am in a great mood
+Happy,I feel joyful
+
+Boredom,I am bored
+Boredom,I have nothing to do
+Boredom,I am feeling bored right now
+
+Tired,I am tired
+Tired,I feel sleepy
+Tired,I am exhausted
+Tired,I need some rest
+
+Motivation,Please motivate me
+Motivation,I need motivation
+Motivation,Encourage me
+Motivation,Inspire me
+
+Failure,I failed my exam
+Failure,I am facing failure
+Failure,I got a bad result
+Failure,I did not pass
+
+Success,I achieved success
+Success,I won today
+Success,I reached my goal
+Success,I am successful
+
+Life,Life is hard
+Life,I am facing life problems
+Life,Life is painful
+Life,I am struggling in life
+
+Future,I am worried about my future
+Future,What should I do for my career?
+Future,I am thinking about my future
+
+Goals,What is your goal?
+Goals,I want to set a life goal
+Goals,How can I achieve my aim?
+
+Discipline,I need discipline
+Discipline,Help me build a routine
+Discipline,How do I improve my habits?
+
+Computer,My computer is slow
+Computer,I use a laptop
+Computer,I have a personal computer
+
+Windows,I am using Windows
+Windows,This is a Windows PC
+Windows,I use Microsoft Windows
+
+Linux,I use Linux
+Linux,I am on Ubuntu
+Linux,I use Linux Mint
+
+Android,I use an Android phone
+Android,This is an Android device
+Android,I installed an APK
+
+Virus,My computer has a virus
+Virus,I think my PC is infected
+Virus,Is this malware?
+
+Performance,My PC is very slow
+Performance,My computer is lagging
+Performance,My system is slow
+
+Internet,My internet is slow
+Internet,WiFi is not working
+Internet,I have network issues
+
+Battery,My battery is low
+Battery,Battery is draining fast
+Battery,My laptop is charging
+
+Study,I need to study
+Study,I have an exam
+Study,I am doing homework
+
+English,I want to learn English
+English,Help me with English grammar
+English,I want to speak English
+
+Confidence,I have low confidence
+Confidence,How can I be confident?
+Confidence,I need self belief
+
+Respect,Respect others
+Respect,Good manners matter
+Respect,We should respect life
+
+Time,What is the current time?
+Time,Can you tell me the time?
+
+Date,What is today’s date?
+Date,Can you tell me the date?
+
+Game,Do you play games?
+Game,Let us play a game
+
+Fact,Tell me a fun fact
+Fact,Give me an interesting fact
+
+Sleep,Do you sleep?
+Sleep,Can an AI sleep?
+
+Food,Do you eat food?
+Food,Are you hungry?
+
+Friendship,Are we friends?
+Friendship,You are my friend
+Friendship,I like you
+
+Conversation,What is going on?
+Conversation,How is it going?
+
+Slang,What does WBU mean?
+Slang,WBU?
+
+Stop,Stop the chat
+Stop,End this conversation
+Stop,Close the chatbot
